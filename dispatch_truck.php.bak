@@ -1,0 +1,90 @@
+<?php include 'head.php' ?> 
+<?php include 'nav.php' ?>
+
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container">
+			<h3 class='m-3'>Secure Truck Request</h3>
+<?php
+
+if(!empty($_POST)){
+	
+	if(update("truck_request", $id)){
+		success("Dispatch Successful");
+	}
+}		
+
+$trucks = getlist("
+select t.id, concat(t.number_plate, ' ',t.name) as driver
+from truck as t 
+left join truck_driving as td on  td.truck_id = t.id
+left join truck_driver as tdr on tdr.user_id = td.driver_id               
+where t.user_id = '$me' and not td.status  is null
+");
+
+// spill($trucks)
+
+?>
+<div class='col-md-6 pull-left'>
+		  <h5 >Requesting Client Details</h5> 
+		  <?php 
+		$id = $_GET['id'];
+		$cid = fetch("select customer_id from truck_request where id = '$id'");
+		$cidets =get("select tel from truck_users where id = '$cid'");
+		
+		$flds = ["full_name","address","photo","email",];
+		$fields = implode(",'|',", $flds);
+		
+		$datastring = "concat($fields) as data";
+		$names  = get("select truck_users.tel, (
+						select $datastring from truck_owner where user_id = '$cid'
+						UNION 
+						select $datastring  from truck_driver where user_id = '$cid'
+						UNION
+						select $datastring from truck_customer where user_id = '$cid'
+						) as customer from truck_users where 
+						id = '$cid'");
+						
+		echo $tel = $names[0]["tel"];
+		$details = explode("|",$names[0]["customer"]);
+		$img = $details[2];
+		$folders = ["truck_owner","truck_driver","truck_customer"];
+		switch($folders){
+			case ""
+		}
+		$folder = 
+		<img src="<?=getimage()?>" width='200px'>
+		  
+		  ?>
+		  
+</div>   
+
+       
+<div class='col-md-6 pull-right'>
+	<form action="" method="post">
+	<input type="hidden" name="fleet_owner_id" value="<?=$me?>">
+	<input type="hidden" name="status" value="1">
+	<div class="form-group">
+		<label >Available Trucks</label>
+		<select class="form-control" name="truck_id" >
+			<?php foreach($trucks as $v=>$n): ?>
+				<option value="<?=$v?>"><?=$n?></option>
+			<?php endforeach; ?>
+		</select>
+	</div>
+	<button type="submit" class="btn btn-primary" >Dispatch Truck</button>
+	</form>
+</div>          
+
+
+
+</div>
+</div>
+
+
+
+<?php include 'footer.php' ?>
+
+

@@ -1,0 +1,299 @@
+[08-Jan-2018 10:45:32 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:45:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'emptyjou_mmboss'@'localhost' (using password: YES) in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:46:07 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:46:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:47:05 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:47:05 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:47:33 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:47:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:47:51 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/emptyjou/public_html/php/functions.php on line 151
+[08-Jan-2018 10:48:05 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:48:05 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:48:23 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:48:23 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:48:37 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:48:37 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:48:56 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:48:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'emptyjou_mmboss'@'localhost' to database 'etnew' in /home/emptyjou/public_html/php/functions.php on line 12
+[08-Jan-2018 10:49:29 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 10:49:29 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[08-Jan-2018 10:49:29 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[08-Jan-2018 11:22:29 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 11:22:29 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[08-Jan-2018 11:22:29 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[08-Jan-2018 11:24:53 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 11:24:53 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[08-Jan-2018 11:24:53 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[08-Jan-2018 11:47:57 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[08-Jan-2018 11:47:57 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[08-Jan-2018 11:47:57 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[09-Jan-2018 05:19:54 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[09-Jan-2018 05:19:54 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[09-Jan-2018 05:19:54 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[09-Jan-2018 06:24:03 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[09-Jan-2018 06:24:03 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[09-Jan-2018 06:24:03 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[09-Jan-2018 06:24:47 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[09-Jan-2018 06:24:47 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[09-Jan-2018 06:24:47 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[13-Jan-2018 12:06:04 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[15-Jan-2018 11:36:55 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[15-Jan-2018 11:36:55 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[15-Jan-2018 11:36:55 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[15-Jan-2018 11:36:58 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[15-Jan-2018 11:36:58 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[15-Jan-2018 11:36:58 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[15-Jan-2018 11:36:59 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[15-Jan-2018 11:37:01 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/dashboard.php on line 22
+[15-Jan-2018 11:37:01 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/dashboard.php on line 31
+[15-Jan-2018 11:37:01 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/dashboard.php on line 40
+[15-Jan-2018 11:37:01 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/dashboard.php on line 51
+[17-Jan-2018 19:21:59 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[17-Jan-2018 22:34:25 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[17-Jan-2018 22:34:25 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[18-Jan-2018 17:29:32 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:29:32 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:29:32 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:30:28 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:30:28 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:30:28 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:30:39 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:30:39 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:30:39 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:31:21 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:31:21 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:31:21 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:33:36 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:33:36 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:33:36 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:33:40 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:33:40 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:33:40 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:34:35 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:34:35 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:34:35 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 17:35:00 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 17:35:00 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 17:35:00 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 18:24:33 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 18:24:33 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 18:24:33 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 18:24:55 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 18:24:55 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 18:24:55 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 18:26:53 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 18:26:53 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 18:26:53 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 18:27:17 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 18:27:17 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 18:27:17 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[18-Jan-2018 18:27:23 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[18-Jan-2018 18:27:23 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[18-Jan-2018 18:27:23 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[19-Jan-2018 12:19:08 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[26-Jan-2018 12:32:45 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/request_truck.php on line 28
+[26-Jan-2018 12:54:55 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[26-Jan-2018 12:54:55 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[26-Jan-2018 12:54:55 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:42:08 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:42:08 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:42:08 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:42:26 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:42:26 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:42:26 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:43:50 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:43:50 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:43:50 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:45:52 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:45:53 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:45:53 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:46:01 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:46:01 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:46:01 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:47:49 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[29-Jan-2018 06:47:50 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:47:50 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:47:50 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:48:41 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[29-Jan-2018 06:48:42 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:48:42 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:48:42 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:51:24 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[29-Jan-2018 06:55:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 06:57:40 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 06:57:40 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 06:57:40 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 06:58:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 06:59:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 06:59:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:01:55 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:01:55 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:01:55 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:03:05 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:03:05 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:03:05 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:05:01 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[29-Jan-2018 07:05:01 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:05:01 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:05:01 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:05:01 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:05:19 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:05:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:05:53 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:05:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:06:43 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:06:43 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:06:43 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:06:59 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:06:59 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:06:59 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:06:59 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:07:03 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:07:58 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:07:59 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:07:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:08:11 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:08:11 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:08:11 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:08:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 07:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 07:09:02 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:09:11 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:14 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:09:18 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:29 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:09:40 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:53 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:09:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:09:56 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:10:09 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:10:09 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:10:09 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:10:09 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:10:15 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:10:15 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:10:15 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 07:10:32 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 07:10:32 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 07:11:34 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:11:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 07:13:03 UTC] PHP Notice:  Undefined variable: me in /home/emptyjou/public_html/php/functions.php on line 270
+[29-Jan-2018 07:13:03 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 07:13:03 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 07:13:03 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 08:31:26 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 08:31:26 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 08:31:26 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 08:34:26 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[29-Jan-2018 08:34:26 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[29-Jan-2018 08:34:26 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[29-Jan-2018 08:46:19 UTC] PHP Notice:  Undefined index: 15172085216746.jpg in /home/emptyjou/public_html/driverprofile.php on line 24
+[29-Jan-2018 08:52:24 UTC] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/emptyjou/public_html/driverprofile.php on line 25
+[29-Jan-2018 08:53:07 UTC] PHP Parse error:  syntax error, unexpected '"images/"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/emptyjou/public_html/driverprofile.php on line 25
+[29-Jan-2018 08:53:48 UTC] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/emptyjou/public_html/driverprofile.php on line 25
+[29-Jan-2018 09:08:47 UTC] PHP Notice:  Undefined index: driver_id in /home/emptyjou/public_html/driverprofile.php on line 51
+[29-Jan-2018 09:08:47 UTC] PHP Notice:  Undefined index: truck_owner_id in /home/emptyjou/public_html/driverprofile.php on line 52
+[29-Jan-2018 09:08:47 UTC] PHP Notice:  Undefined index: status in /home/emptyjou/public_html/driverprofile.php on line 54
+[29-Jan-2018 09:09:37 UTC] PHP Notice:  Undefined index: driver_id in /home/emptyjou/public_html/driverprofile.php on line 51
+[29-Jan-2018 09:09:37 UTC] PHP Notice:  Undefined index: truck_owner_id in /home/emptyjou/public_html/driverprofile.php on line 52
+[29-Jan-2018 09:09:37 UTC] PHP Notice:  Undefined index: status in /home/emptyjou/public_html/driverprofile.php on line 54
+[29-Jan-2018 09:10:55 UTC] PHP Notice:  Undefined index: driver_id in /home/emptyjou/public_html/driverprofile.php on line 51
+[29-Jan-2018 09:10:55 UTC] PHP Notice:  Undefined index: truck_id in /home/emptyjou/public_html/driverprofile.php on line 52
+[29-Jan-2018 09:10:55 UTC] PHP Notice:  Undefined index: truck_owner_id in /home/emptyjou/public_html/driverprofile.php on line 53
+[29-Jan-2018 09:10:55 UTC] PHP Notice:  Undefined index: status in /home/emptyjou/public_html/driverprofile.php on line 55
+[29-Jan-2018 09:13:25 UTC] PHP Notice:  Undefined index: driver_id in /home/emptyjou/public_html/driverprofile.php on line 42
+[29-Jan-2018 09:13:25 UTC] PHP Notice:  Undefined index: truck_owner_id in /home/emptyjou/public_html/driverprofile.php on line 43
+[29-Jan-2018 09:13:25 UTC] PHP Notice:  Undefined index: status in /home/emptyjou/public_html/driverprofile.php on line 45
+[29-Jan-2018 09:19:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 09:19:35 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 09:19:35 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 09:29:40 UTC] PHP Notice:  Undefined index: truck_id in /home/emptyjou/public_html/dispatch_truck.php on line 60
+[29-Jan-2018 09:41:13 UTC] PHP Parse error:  syntax error, unexpected '$names' (T_VARIABLE), expecting ',' or ';' in /home/emptyjou/public_html/dispatch_truck.php on line 65
+[29-Jan-2018 09:59:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 09:59:42 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 09:59:42 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 10:00:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[29-Jan-2018 10:00:07 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 10:00:07 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[29-Jan-2018 10:35:30 UTC] PHP Notice:  Undefined index: number_plate in /home/emptyjou/public_html/view_dispatch.php on line 95
+[29-Jan-2018 10:35:30 UTC] PHP Notice:  Undefined index: name in /home/emptyjou/public_html/view_dispatch.php on line 96
+[29-Jan-2018 10:35:30 UTC] PHP Notice:  Undefined index: type in /home/emptyjou/public_html/view_dispatch.php on line 97
+[29-Jan-2018 10:35:30 UTC] PHP Notice:  Undefined index: capacity in /home/emptyjou/public_html/view_dispatch.php on line 98
+[29-Jan-2018 10:35:30 UTC] PHP Notice:  Undefined index: model in /home/emptyjou/public_html/view_dispatch.php on line 99
+[29-Jan-2018 10:37:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/emptyjou/public_html/view_dispatch.php on line 67
+[29-Jan-2018 17:01:34 UTC] PHP Notice:  Undefined index: akc_ in /home/emptyjou/public_html/truck_booking.php on line 33
+[29-Jan-2018 17:01:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[31-Jan-2018 08:30:11 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 08:30:11 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 08:30:11 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 08:35:42 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 08:35:42 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 08:35:42 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 08:53:11 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[31-Jan-2018 08:53:11 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 08:53:11 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 08:53:11 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 08:53:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[31-Jan-2018 09:16:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/emptyjou/public_html/php/functions.php:39
+Stack trace:
+#0 /home/emptyjou/public_html/php/functions.php(41): get('select id, vdat...')
+#1 /home/emptyjou/public_html/addtruck.php(20): getlist('select id, vdat...')
+#2 {main}
+  thrown in /home/emptyjou/public_html/php/functions.php on line 39
+[31-Jan-2018 09:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/emptyjou/public_html/php/functions.php:39
+Stack trace:
+#0 /home/emptyjou/public_html/php/functions.php(41): get('select id, vdat...')
+#1 /home/emptyjou/public_html/addtruck.php(20): getlist('select id, vdat...')
+#2 {main}
+  thrown in /home/emptyjou/public_html/php/functions.php on line 39
+[31-Jan-2018 09:37:56 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[31-Jan-2018 10:03:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[31-Jan-2018 10:04:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[31-Jan-2018 10:04:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/emptyjou/public_html/php/functions.php on line 234
+[31-Jan-2018 10:05:56 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:05:56 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:05:56 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:07:16 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:07:16 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:07:16 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:07:24 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:07:24 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:07:24 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:07:41 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:07:41 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:07:41 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:18:02 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:18:02 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:18:02 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:18:26 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:18:26 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:18:26 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:19:27 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:19:27 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:19:27 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:19:34 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:19:34 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:19:34 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:20:14 UTC] PHP Notice:  Only variables should be passed by reference in /home/emptyjou/public_html/php/functions.php on line 86
+[31-Jan-2018 10:20:14 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:20:14 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:20:14 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:50:00 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:50:00 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:50:00 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:50:25 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:50:25 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:50:25 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:51:16 UTC] PHP Notice:  Undefined index: departure in /home/emptyjou/public_html/index.php on line 6
+[31-Jan-2018 10:51:16 UTC] PHP Notice:  Undefined index: destination in /home/emptyjou/public_html/index.php on line 7
+[31-Jan-2018 10:51:16 UTC] PHP Notice:  Undefined index: transit_date in /home/emptyjou/public_html/index.php on line 8
+[31-Jan-2018 10:52:18 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[31-Jan-2018 10:52:18 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[31-Jan-2018 10:54:10 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/view_request.php on line 37
+[31-Jan-2018 10:54:10 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/view_request.php on line 38
+[31-Jan-2018 10:54:15 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106
+[31-Jan-2018 10:54:15 UTC] PHP Notice:  Undefined offset: 0 in /home/emptyjou/public_html/truck_requests.php on line 106

@@ -1,0 +1,1 @@
+<?php include("php/functions.php");session_destroy();header("location:index.php");

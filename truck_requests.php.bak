@@ -1,0 +1,82 @@
+<?php include 'head.php' ?> 
+<?php include 'nav.php' ?>
+
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container">
+            
+<?php
+	if(!empty($_POST)){
+		if(insert("truck_request")){success("Request Successful");}
+	}
+	
+	$truck_types = getlist("select id, names from truck_types");
+	$a = getlist("select u.id, td.full_name from truck_users as u right join truck_driver as td on td.user_id = u.id");
+	$b = getlist("select u.id, td.full_name from truck_users as u right join truck_owner as td on td.user_id = u.id");
+	$c = getlist("select u.id, td.full_name from truck_users as u right join truck_customer as td on td.user_id = u.id");
+	
+	$users = $a+$b+$c;
+	// spill($users);
+	
+	$data = get("select  tr.id, tr.customer_id, tr.transit_date,tr.status, ttf.town as from_, tto.town as to_
+					from truck_request as tr
+					left join truck_users as tu on tu.id = tr.customer_id
+					left join truck_towns as ttf on tr.town_from = ttf.id
+					left join truck_towns as tto on tr.town_to = tto.id
+					");
+	// spill($data);
+	$type = fetch("select usertype from truck_users where id = '$me'");
+	
+	    if(!empty($data)) {
+        $ths = array_keys($data[0]);
+        echo "<table class='table table-striped table-bordered'>";
+        echo "<tr><thead class='bg-info'>"; foreach($ths as $th){ echo "<th>".rx($th)."</th>"; }echo "<th>Action</th>"; echo "</thead></tr>";
+        echo "<tbody>";
+        $x = 1;
+        foreach($data as $tr=>$tds){
+            if(isset($tds["status"])){ 
+                $tds["status"] = $tds["status"] == 0 ? "Pending" : "Approved";}
+                $tds["customer_id"] = $users[$tds["customer_id"]];
+                $ids = array_shift($tds);
+				
+				$action = null;
+				switch($type){
+					case 1: $d = "<td class='btn btn-danger' id='$ids' onclick='dispatch_truck(this.id)'>Dispatch Truck</td>"; break;
+					case 2: $d = "<td class='btn btn-danger' id='$ids' onclick='view_request(this.id)'>View Details</td>";break;
+					case 3: $d = "<td class='btn btn-danger' id='$ids' onclick='delete_schedule(this.id)'>Cancel Request</td>";break;
+				}
+				$action = $d;
+				
+				
+                array_unshift($tds, $x);
+
+                echo "<tr>";
+                foreach($tds as $td){ echo "<td>".$td."</td>"; } 
+                echo $action;
+                echo "</tr>"; 
+                $x++;
+        }
+        echo "</tbody>";
+        echo "</table>";
+    }
+?>			
+
+
+
+			
+</div>
+</div>
+
+<script>
+	function dispatch_truck(id){window.location = "./dispatch_truck.php?id="+id}
+	function view_request(id){window.location = "./view_request.php?id="+id}
+	function delete_schedule(id){window.location = "./delete_schedule.php?id="+id}
+</script>
+
+
+
+
+<?php include 'footer.php' ?>
+
